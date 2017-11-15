@@ -1,0 +1,32 @@
+.group_head {
+  font-family: sans-serif;
+  font-size: 24pt;
+}
+
+.education {
+  font-family: sans-serif;
+  float: right;
+  width: 33%
+}
+
+.work_experience {
+  font-family: sans-serif;
+  float: right;
+  width: 33%
+}
+
+.skills {
+  font-family: sans-serif;
+  font-size: 16pt;
+  float: right;
+  width: 33%
+}
+
+.about_me {
+  font-family: sans-serif;
+}
+
+.li_2 {
+  font-family: sans-serif;
+  font-style: italic;
+}
